@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @blackwoolfs
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- مرحباً، أنا
+- أنا مهتم بـ...
+- أنا أتعلم حالياً
+- أنا أتطلع إلى التعاون على...
+- كيف تصل إليّ...ما اريد..
+- احتاج مساعده
 
 <!---
-blackwoolfs/blackwoolfs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+(ديسمبر 2018) هو مستودع خاص لأن (README.md) يظهر على ملفاتك الخاصة.
+يمكنك النقر على وصلة بريبري لإلقاء نظرة على تغيرتك
 --->
